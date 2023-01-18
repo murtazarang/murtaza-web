@@ -1,5 +1,5 @@
 ---
-avatar_filename: img_20160301_163359.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include multi-agent deep reinforcement learning, and
   autonomous systems, safety critical robotics applications..
 interests: []
